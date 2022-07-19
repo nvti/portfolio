@@ -1,9 +1,7 @@
 /* Change this file to get your personal Porfolio */
 
 // Website related settings
-const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
-};
+const settings = {};
 
 //SEO Related settings
 const seo = {
@@ -21,11 +19,11 @@ const seo = {
 const greeting = {
   title: "Viet-Tien",
   logo_name: "Viet-Tien",
-  nickname: "layman_brother",
+  nickname: "gaf",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+    "https://drive.google.com/file/d/1Rx4qg4P_MfSpfYJy6K9X2OJ5nKyCOOZB",
   portfolio_repository: "https://github.com/tiena2cva/portfolio",
   githubProfile: "https://github.com/tiena2cva",
 };
@@ -46,7 +44,7 @@ const socialMediaLinks = [
   {
     name: "Mail",
     link: "mailto:tien@zootopi.com",
-    fontAwesomeIcon: "fa-envelope", // Reference https://fontawesome.com/icons/envelope?s=solid
+    fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
 ];
@@ -240,45 +238,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:kubernetes",
           style: {
             color: "#326CE5",
-          },
-        },
-      ],
-    },
-    {
-      title: "UI/UX Design",
-      fileName: "DesignImg",
-      skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E",
-          },
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
           },
         },
       ],
@@ -635,7 +594,8 @@ const contactPageData = {
     title: "Address",
     subtitle: "Hanoi, Vietnam",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link:
+      "https://www.google.com/maps/@21.0166345,105.8057127,13.63z",
   },
   phoneSection: {
     title: "Phone Number",

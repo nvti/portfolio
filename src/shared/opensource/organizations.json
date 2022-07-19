@@ -1,1 +1,69 @@
-{"data":[{"login":"reviewdog","avatarUrl":"https://avatars.githubusercontent.com/u/48765237?v=4","__typename":"Organization"},{"login":"pytorch","avatarUrl":"https://avatars.githubusercontent.com/u/21003710?v=4","__typename":"Organization"},{"login":"ZootoPi","avatarUrl":"https://avatars.githubusercontent.com/u/61201864?v=4","__typename":"Organization"},{"login":"numary","avatarUrl":"https://avatars.githubusercontent.com/u/84325077?v=4","__typename":"Organization"},{"login":"protonx-engineering","avatarUrl":"https://avatars.githubusercontent.com/u/88261138?v=4","__typename":"Organization"}]}
+{
+  "data": [
+    {
+      "login": "reviewdog",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48765237?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "pytorch",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/21003710?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "ZootoPi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/61201864?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "numary",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/84325077?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "protonx-engineering",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/88261138?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "solokeys",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46457952?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "MLBVN",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65917473?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "tensorflow",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "uber",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/538264?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "Go",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4314092?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "Google Research",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43830688?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "Ory",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25334553?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "Gin-Gonic",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7894478?v=4",
+      "__typename": "Organization"
+    }
+  ]
+}
