@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "id": "I_kwDOFibZ585Nxxd6",
+      "closed": true,
+      "title": "bug: Can't run example",
+      "createdAt": "2022-07-14T14:44:21Z",
+      "url": "https://github.com/numary/ledger/issues/279",
+      "number": 279,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ledger",
+        "url": "https://github.com/numary/ledger",
+        "owner": {
+          "login": "numary",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/84325077?v=4",
+          "url": "https://github.com/numary"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU5OTUxMDY0NTk=",
+      "closed": true,
+      "title": "XLA spend too much time for compile graph",
+      "createdAt": "2021-09-13T16:45:33Z",
+      "url": "https://github.com/pytorch/xla/issues/3125",
+      "number": 3125,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "xla",
+        "url": "https://github.com/pytorch/xla",
+        "owner": {
+          "login": "pytorch",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/21003710?v=4",
+          "url": "https://github.com/pytorch"
+        }
+      }
+    }
+  ],
+  "open": 15,
+  "closed": 70,
+  "totalCount": 85
+}

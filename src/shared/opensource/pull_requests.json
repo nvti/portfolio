@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "PR_kwDOHXB4Ms455lAS",
+      "title": "Use protonx api",
+      "url": "https://github.com/protonx-engineering/protonx-language-model/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12130196?u=554eaa566e0bf0c79e23f76580574a959b120e12&v=4",
+        "url": "https://github.com/tiena2cva",
+        "login": "tiena2cva"
+      },
+      "createdAt": "2022-06-19T02:53:37Z",
+      "number": 9,
+      "changedFiles": 5,
+      "additions": 181,
+      "deletions": 76,
+      "baseRepository": {
+        "name": "protonx-language-model",
+        "url": "https://github.com/protonx-engineering/protonx-language-model",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/88261138?v=4",
+          "login": "protonx-engineering",
+          "url": "https://github.com/protonx-engineering"
+        }
+      }
+    }
+  ],
+  "open": 3,
+  "closed": 7,
+  "merged": 81,
+  "totalCount": 91
+}
