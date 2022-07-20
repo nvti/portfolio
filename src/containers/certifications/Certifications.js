@@ -7,6 +7,9 @@ import CertificationCard from "../../components/certificationCard/CertificationC
 class Certifications extends Component {
   render() {
     const theme = this.props.theme;
+    if (certifications.certifications.length === 0) {
+      return <div></div>;
+    }
     return (
       <div className="main" id="certs">
         <div className="certs-header-div">

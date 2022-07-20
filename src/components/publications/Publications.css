@@ -1,0 +1,17 @@
+.publications-heading-text-div {
+  text-align: center;
+  font-family: "Google Sans Regular";
+  margin-top: 70px;
+}
+
+.publications-heading-text {
+  font-size: 56px;
+  font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .publications-heading-text {
+    font-size: 30px;
+    margin-top: 20px;
+  }
+}
