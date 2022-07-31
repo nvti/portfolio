@@ -338,14 +338,6 @@ const experience = {
         },
       ],
     },
-    {
-      title: "Internships",
-      experiences: [],
-    },
-    {
-      title: "Volunteerships",
-      experiences: [],
-    },
   ],
 };
 

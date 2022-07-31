@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import ExperienceCard from "../../components/experienceCard/ExperienceCard.js";
 import "./ExperienceAccordion.css";
-import { Accordion, Panel } from "baseui/accordion";
+import { Accordion } from "baseui/accordion";
+import { Fade } from "react-reveal";
 
 class ExperienceAccordion extends Component {
   render() {
@@ -11,34 +12,25 @@ class ExperienceAccordion extends Component {
         <Accordion>
           {this.props.sections.map((section) => {
             return (
-              <Panel
-                className="accord-panel"
-                title={section["title"]}
-                key={section["title"]}
-                overrides={{
-                  Header: {
-                    style: () => ({
-                      backgroundColor: `${theme.body}`,
-                      border: `1px solid`,
-                      borderRadius: `5px`,
-                      borderColor: `${theme.headerColor}`,
-                      marginBottom: `3px`,
-                      fontFamily: "Google Sans Regular",
-                    }),
-                  },
-                  Content: {
-                    style: () => ({
-                      backgroundColor: `${theme.body}`,
-                    }),
-                  },
-                }}
-              >
-                {section["experiences"].map((experience) => {
-                  return (
-                    <ExperienceCard experience={experience} theme={theme} />
-                  );
-                })}
-              </Panel>
+              <div className="main" id="educations">
+                <div className="educations-header-div">
+                  <Fade bottom duration={2000} distance="20px">
+                    <h1
+                      className="educations-header"
+                      style={{ color: theme.text }}
+                    >
+                      {section["title"]}
+                    </h1>
+                  </Fade>
+                </div>
+                <div className="educations-body-div">
+                  {section["experiences"].map((experience) => {
+                    return (
+                      <ExperienceCard experience={experience} theme={theme} />
+                    );
+                  })}
+                </div>
+              </div>
             );
           })}
         </Accordion>
