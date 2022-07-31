@@ -45,19 +45,20 @@ class ExperienceCard extends Component {
               </div>
             </div>
             <div className="body-content">
-              {/* {degree.descriptions.map((sentence) => {
-                return (
-                  <p className="content-list" style={{ color: theme.text }}>
-                    {sentence}
-                  </p>
-                );
-              })} */}
-              <p
+              {experience["descriptions"] &&
+                experience.descriptions.map((sentence) => {
+                  return (
+                    <p className="content-list" style={{ color: theme.text }}>
+                      {sentence}
+                    </p>
+                  );
+                })}
+              {/* <p
                 className="experience-card-description"
                 style={{ color: theme.text }}
               >
                 {experience["description"]}
-              </p>
+              </p> */}
             </div>
           </div>
         </Fade>

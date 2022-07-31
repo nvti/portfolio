@@ -41,6 +41,7 @@
 }
 
 .experience-card-title {
+  width: 80%;
   font-family: "Google Sans Medium";
   font-size: 23px;
 }
@@ -52,6 +53,7 @@
 }
 
 .experience-card-duration {
+  width: 20%;
   font-family: "Google Sans Regular";
   margin-top: 10px;
   margin-bottom: 2px;
@@ -130,9 +132,6 @@
     width: 100px;
   }
 
-  .experience-card-body-div {
-  }
-
   .experience-card-heading-left {
     float: center;
     margin-left: auto;
@@ -153,9 +152,6 @@
     text-align: center;
   }
 
-  .experience-card-duration {
-    width: 20%;
-  }
   .duration {
     font-family: "Google Sans Regular";
     font-size: 16px;
