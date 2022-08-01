@@ -17,6 +17,7 @@
 }
 
 .projects-heading-img-div {
+  flex: 0.5;
   align-items: center;
   justify-content: center;
 }

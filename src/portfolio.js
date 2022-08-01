@@ -310,8 +310,11 @@ const experience = {
           logo_path: "freecopy_logo.png",
           duration: "Jan 2020 - Present",
           location: "Hanoi, Vietnam",
-          description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+          descriptions: [
+            "⚡ G-Innovations is a startup company from Hanoi, Vietnam.",
+            "⚡ I am working as a Architecture team lead",
+            "⚡ I am responsible for the overall architecture of some products.",
+          ],
           color: "#fc1f20",
         },
         {
@@ -321,8 +324,12 @@ const experience = {
           logo_path: "muffito_logo.png",
           duration: "Aug 2021 - Present",
           location: "Hanoi, Vietnam",
-          description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+          descriptions: [
+            "⚡ ProtonX is a technology company founded to develop the most advanced AI applications to solve the significant problems of society.",
+            "⚡ I researched and re-implemented SOTA papers: ViT, wave2vec, ...",
+            "⚡ I builded Speech-to-Text system for Vietnamese",
+            "⚡ I also created smart editor to help teachers create new courses",
+          ],
           color: "#9b1578",
         },
         {
@@ -332,19 +339,15 @@ const experience = {
           logo_path: "freecopy_logo.png",
           duration: "Apr 2016 - Jan 2020",
           location: "Hanoi, Vietnam",
-          description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+          descriptions: [
+            "⚡ G-Innovations is a startup company from Hanoi, Vietnam.",
+            "⚡ I implemented voice encryption system via 2G network",
+            "⚡ I also designed and developed products for Security, IoT ...",
+            "⚡ I worked with real-time OS, Linux kernel, Android kernel",
+          ],
           color: "#fc1f20",
         },
       ],
-    },
-    {
-      title: "Internships",
-      experiences: [],
-    },
-    {
-      title: "Volunteerships",
-      experiences: [],
     },
   ],
 };
@@ -368,7 +371,7 @@ const publicationsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "avatar.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },

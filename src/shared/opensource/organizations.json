@@ -64,6 +64,11 @@
       "login": "Gin-Gonic",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7894478?v=4",
       "__typename": "Organization"
+    },
+    {
+      "login": "Hugging Face",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4",
+      "__typename": "Organization"
     }
   ]
 }
