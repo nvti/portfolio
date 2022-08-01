@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.3caffccf.css",
-    "main.js": "./static/js/main.5ae370d9.js",
+    "main.css": "./static/css/main.b6052b6d.css",
+    "main.js": "./static/js/main.70dde66f.js",
     "static/media/portfolio.gif": "./static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "./static/media/fa-solid-900.9fa614346b4e81decc62.svg",
+    "static/media/avatar.png": "./static/media/avatar.4eb3b1fbca543599b2f5.png",
     "static/media/fa-brands-400.svg": "./static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
     "static/media/Montserrat-Regular.ttf": "./static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/dsc_logo.png": "./static/media/dsc_logo.fdf993910e3f48d0cf30.png",
@@ -62,11 +63,11 @@
     "static/media/googleAssistant.svg": "./static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
-    "main.3caffccf.css.map": "./static/css/main.3caffccf.css.map",
-    "main.5ae370d9.js.map": "./static/js/main.5ae370d9.js.map"
+    "main.b6052b6d.css.map": "./static/css/main.b6052b6d.css.map",
+    "main.70dde66f.js.map": "./static/js/main.70dde66f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3caffccf.css",
-    "static/js/main.5ae370d9.js"
+    "static/css/main.b6052b6d.css",
+    "static/js/main.70dde66f.js"
   ]
 }
