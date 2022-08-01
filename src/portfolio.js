@@ -7,7 +7,7 @@ const settings = {};
 const seo = {
   title: "Viet-Tien's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A senior software engineer with a passion for product development.",
   og: {
     title: "Viet-Tien Portfolio",
     type: "website",
@@ -19,9 +19,9 @@ const seo = {
 const greeting = {
   title: "Viet-Tien",
   logo_name: "Viet-Tien",
-  nickname: "gaf",
+  // nickname: "gaf",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A senior software engineer with a passion for product development.",
   resumeLink:
     "https://drive.google.com/file/d/1Rx4qg4P_MfSpfYJy6K9X2OJ5nKyCOOZB",
   portfolio_repository: "https://github.com/tiena2cva/portfolio",
@@ -307,7 +307,7 @@ const experience = {
           title: "Architecture Team Lead",
           company: "G-Innovations Vietnam",
           company_url: "https://ginno.com/",
-          logo_path: "freecopy_logo.png",
+          logo_path: "ginnovations.png",
           duration: "Jan 2020 - Present",
           location: "Hanoi, Vietnam",
           descriptions: [
@@ -321,7 +321,7 @@ const experience = {
           title: "AI Engineer",
           company: "ProtonX Vietnam",
           company_url: "https://protonx.ai/",
-          logo_path: "muffito_logo.png",
+          logo_path: "protonx.jpeg",
           duration: "Aug 2021 - Present",
           location: "Hanoi, Vietnam",
           descriptions: [
@@ -336,7 +336,7 @@ const experience = {
           title: "Software Engineer",
           company: "G-Innovations Vietnam",
           company_url: "https://ginno.com/",
-          logo_path: "freecopy_logo.png",
+          logo_path: "ginnovations.png",
           duration: "Apr 2016 - Jan 2020",
           location: "Hanoi, Vietnam",
           descriptions: [
@@ -371,7 +371,7 @@ const publicationsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "avatar.png",
+    profile_image_path: "contact_me.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
